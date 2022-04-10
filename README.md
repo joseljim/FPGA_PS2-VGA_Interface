@@ -1,4 +1,4 @@
-# FPGA PS2 - VGA Interface
+# FPGA PS2 - VGA Interface  (11/2018)
 
 PS2 - VGA Interface developed in Verilog and tested on the Altera DE10 Standard board. The purpose of this project was to write from a PS2 keyboard on a screen using the VGA protocol.
 
