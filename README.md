@@ -5,7 +5,7 @@ PS2 - VGA Interface developed in Verilog and tested on the Altera DE10 Standard 
 ## Team
 
 * José Luis Jiménez Arévalo [joseljim](https://github.com/joseljim)
-* Perla Vanessa Jaime [vanessa2213](https://github.com/vanessa2213)
+* Perla Vanessa Jaime Gaytán [vanessa2213](https://github.com/vanessa2213)
 
 
 ## RTL View
